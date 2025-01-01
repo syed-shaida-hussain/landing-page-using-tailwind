@@ -5,3 +5,7 @@
 *{
     @apply transition-colors duration-150
 }
+
+.nav-link{
+    @apply font-medium hover:cursor-pointer
+}
