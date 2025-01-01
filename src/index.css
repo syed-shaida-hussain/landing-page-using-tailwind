@@ -9,3 +9,7 @@
 .nav-link{
     @apply font-medium hover:cursor-pointer
 }
+
+.image{
+    height: 60vh;
+}
